@@ -1,0 +1,19 @@
+body{
+  background-color: darkblue;
+}
+.mo{
+  background-color: lightskyblue;
+  border-radius: 10px;
+  height: 350px;
+  width: 525px;
+}
+.mh{
+  background-color: white;
+  height: 175px;
+  width: 100px;
+  padding: 15px;
+  border-radius: 10px;
+}
+.dw{
+  display: flex;
+}
